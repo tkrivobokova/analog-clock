@@ -19,4 +19,4 @@ MINUTEHAND.style.transform = "rotate(" + minPosition + "deg)";
 SECONDHAND.style.transform = "rotate(" + secPosition + "deg)";
 }
 
-//const interval = setInterval(runClock, 1000);
+const interval = setInterval(runClock, 1000);
